@@ -22,12 +22,12 @@ My task on this challenge was to create a responsive cad using HTML and CSS.
 
 ### Screenshot
 
-![image](./screenshots/FrontendMentorStatscardcomponent.png?raw=true)
+![image](./screenshots/FrontendMentorStatscardcomponent.png)
 
 ### Links
 
 - Solution URL: [Solution](https://github.com/tshabalalaaj/Challenges-FrontendMentor-/tree/main/stats-preview-card-component-main
-- Live Site URL: [live site URL](https://l4ztw.csb.app/)
+- Live Site URL: [live site URL](https://tshabalalaaj.github.io/Challenges-FrontendMentor-/stats-preview-card-component-main/)
 
 ## My process
 
@@ -38,7 +38,6 @@ My task on this challenge was to create a responsive cad using HTML and CSS.
 - CSS Grid
 - Media Query
 - Desktop first workflow
-
 
 ### What I learned
 
@@ -53,5 +52,3 @@ I still need to do animations and improve my on my understanding on how best use
 - Linkedin - [tshabalalaaj](https://www.linkedin.com/in/tshabalalaaj)
 - Frontend Mentor - [@tshabalalaaj](https://www.frontendmentor.io/profile/tshabalalaaj)
 - Twitter - [@tshabalalaaj](https://twitter.com/tshabalalaaj)
-
-
