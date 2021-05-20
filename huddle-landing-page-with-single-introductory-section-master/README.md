@@ -42,10 +42,6 @@ Users should be able to:
 - BEM
 - Mobile-first workflow
 
-### What I learned
-
-I have learned how to use position relative, absolute & z-index.
-
 ## Author
 
 - Linkedin - [Abednigo Jabulane Tshabalala](https://www.linkedin.com/in/tshabalalaaj)
